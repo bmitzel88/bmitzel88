@@ -1,8 +1,8 @@
 # 👋 Hi there, I’m Brandon Mitzel!
 
-🎓 I'm a Computer Science student at Clover Park Technical College, currently working toward my AAT with plans to earn my Bachelor's in Computer Science right here at CPTC.
+🎓 I'm a SDEV student at Green River College, I got my AAT degree with plans to earn my Bachelor's in Software Development right here at GRC.
 
-💻 I’ve been passionate about technology since I was 2 years old — from PBS Kids games to building full web applications and writing C++ programs today. I’m especially interested in **software development**, **web development**, and building tools that solve real-world problems.
+💻 I’ve been passionate about technology since I was 2 years old — from playing on PBS Kids games to building full web applications and writing C++ programs today. I’m especially interested in **software development**, **web development**, and building tools that solve real-world problems.
 
 🔨 **Current Projects:**
 - 🌲 **Never Never Land Restoration Website** — A full-stack ASP.NET project built for a real-world park restoration effort. Includes Stripe payment integration and user account management.
